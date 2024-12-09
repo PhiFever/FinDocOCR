@@ -1,0 +1,41 @@
+{
+  "FixedFileInfo": {
+    "FileVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "ProductVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "FileFlagsMask": "3f",
+    "FileFlags": "00",
+    "FileOS": "040004",
+    "FileType": "01",
+    "FileSubType": "00"
+  },
+  "StringFileInfo": {
+    "Comments": "发票OCR识别",
+    "CompanyName": "PhiFever",
+    "FileDescription": "基于百度云OCR的发票识别工具",
+    "FileVersion": "1.0.0",
+    "InternalName": "FinDocOCR.exe",
+    "LegalCopyright": "版权所有",
+    "LegalTrademarks": "",
+    "OriginalFilename": "FinDocOCR.exe",
+    "PrivateBuild": "",
+    "ProductName": "PhiFever的发票OCR识别",
+    "ProductVersion": "1.0.0",
+    "SpecialBuild": ""
+  },
+  "VarFileInfo": {
+    "Translation": {
+      "LangID": "0804",
+      "CharsetID": "04B0"
+    }
+  }
+}
